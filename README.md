@@ -7,7 +7,7 @@
 
 # 2. 팀 소개
 
-* 배재홍 @ , RocksDB 코드 분석 및 동작분석, Zone Erase정책 고안 및 구현
+* 배재홍 bjh0820@naver.com , RocksDB 코드 분석 및 동작분석, Zone Erase정책 고안 및 구현
 
 * 이재석 @ , RocksDB 코드 분석 및 동작분석
 
