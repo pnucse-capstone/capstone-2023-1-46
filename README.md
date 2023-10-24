@@ -12,7 +12,7 @@
 
 * 배재홍 bjh0820@naver.com , RocksDB 코드 분석 및 동작분석, Zone Erase정책 고안 및 구현
 
-* 이재석 @ , RocksDB 코드 분석 및 동작분석
+* 이재석 jaeseok91@naver.com , RocksDB 코드 분석 및 동작분석
 
 * 조준호 adagazua@pusan.ac.kr, ZenFS 코드 분석 및 동작분석
 
