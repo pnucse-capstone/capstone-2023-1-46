@@ -54,6 +54,7 @@
 * total migration: GC로 인해 발생한 migration 양 byte (MB)
 * lifetime n erase count: lifetime이 n인 Zone의 erase 수
 * total erase count: 총 erase 된 Zone의 수
+<br/>
 [![Default](http://img.youtube.com/vi/mRMwI-QpY38/0.jpg)](https://www.youtube.com/watch?v=mRMwI-QpY38) 
 #### [Default]
 
