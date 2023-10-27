@@ -45,6 +45,8 @@
 [![System_A 소개영상](http://img.youtube.com/vi/WlXwOGqMEa8/0.jpg)](https://www.youtube.com/watch?v=WlXwOGqMEa8) 
 <br/>
 
+### [시연 영상]
+
 * used_zone: 사용 중인 Zone의 수
 * #200~255 zone: 일부 Zone의 데이터 현황
   * -: Invalid Data
@@ -52,7 +54,6 @@
 * total migration: GC로 인해 발생한 migration 양 byte (MB)
 * lifetime n erase count: lifetime이 n인 Zone의 erase 수
 * total erase count: 총 erase 된 Zone의 수
-### [시연 영상]
 [![Default](http://img.youtube.com/vi/mRMwI-QpY38/0.jpg)](https://www.youtube.com/watch?v=mRMwI-QpY38) 
 #### [Default]
 
