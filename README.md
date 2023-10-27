@@ -55,15 +55,15 @@
 * lifetime n erase count: lifetime이 n인 Zone의 erase 수
 * total erase count: 총 erase 된 Zone의 수
 <br/>
-
-[![Default](http://img.youtube.com/vi/mRMwI-QpY38/0.jpg)](https://www.youtube.com/watch?v=mRMwI-QpY38) 
 #### [Default]
+[![Default](http://img.youtube.com/vi/mRMwI-QpY38/0.jpg)](https://www.youtube.com/watch?v=mRMwI-QpY38) 
 
-[![SLA](http://img.youtube.com/vi/ownhIZsZFDA/0.jpg)](https://www.youtube.com/watch?v=ownhIZsZFDA) 
 #### [SLA]
+[![SLA](http://img.youtube.com/vi/ownhIZsZFDA/0.jpg)](https://www.youtube.com/watch?v=ownhIZsZFDA) 
 
-[![SLA-LZR](http://img.youtube.com/vi/G5OP8r8xZjY/0.jpg)](https://www.youtube.com/watch?v=G5OP8r8xZjY) 
 #### [SLA-LZR]
+[![SLA-LZR](http://img.youtube.com/vi/G5OP8r8xZjY/0.jpg)](https://www.youtube.com/watch?v=G5OP8r8xZjY) 
+
 
 
 # 5. 사용법
