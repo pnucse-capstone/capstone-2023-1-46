@@ -54,6 +54,7 @@
 * total migration: GC로 인해 발생한 migration 양 byte (MB)
 * lifetime n erase count: lifetime이 n인 Zone의 erase 수
 * total erase count: 총 erase 된 Zone의 수
+* 실시간 영상이 아닌 log를 재현한 영상임
 <br/>
 
 #### [Default]
@@ -64,7 +65,6 @@
 
 #### [SLA-LZR]
 [![SLA-LZR](http://img.youtube.com/vi/G5OP8r8xZjY/0.jpg)](https://www.youtube.com/watch?v=G5OP8r8xZjY) 
-
 
 
 # 5. 사용법
