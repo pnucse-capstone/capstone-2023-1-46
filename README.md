@@ -41,7 +41,8 @@
 * Lifetime이 2인 파일이 저장된 Zone의 Erase를 늦춰 해결
 
 # 4. 소개 및 시연 영상
-추가예정
+### [소개영상]
+[![System_A 소개영상](http://img.youtube.com/vi/WlXwOGqMEa8/0.jpg)](https://www.youtube.com/watch?v=WlXwOGqMEa8) 
 
 # 5. 사용법
 ### [Linux]
