@@ -100,11 +100,12 @@ $ grep -c processor /proc/cpuinfo
 #### RocksDB & ZenFS 설치
 ```
 $ sudo git clone https://github.com/pnucse-capstone/capstone-2023-1-46.git
-$ cd rocksdb
+$ cd capstone-2023-1-46/rocksdb
 $ sudo DEBUG_LEVEL=0 ROCKSDB_PLUGINS=zenfs make -j(코어 수) db_bench install
+$ pushd
 $ cd plugin/zenfs/util
 $ make
-$ cd ../../..
+$ popd
 ```
 <br/>
 
